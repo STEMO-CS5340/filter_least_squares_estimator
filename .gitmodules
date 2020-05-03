@@ -1,0 +1,3 @@
+[submodule "Trajectory"]
+	path = Trajectory
+	url = git@github.com:STEMO-CS5340/Trajectory.git
